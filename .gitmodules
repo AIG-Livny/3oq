@@ -1,0 +1,21 @@
+[submodule "lib/c-utils"]
+	path = lib/c-utils
+	url = https://github.com/barrust/c-utils
+[submodule "lib/c-vector"]
+	path = lib/c-vector
+	url = https://github.com/eteran/c-vector.git
+[submodule "lib/fileutils"]
+	path = lib/fileutils
+	url = https://github.com/AIG-Livny/fileutils
+[submodule "lib/freetype-gl"]
+	path = lib/freetype-gl
+	url = git@github.com:AIG-Livny/freetype-gl-aig.git
+[submodule "lib/stringlib"]
+	path = lib/stringlib
+	url = git@github.com:AIG-Livny/stringlib.git
+[submodule "lib/shaderutils"]
+	path = lib/shaderutils
+	url = git@github.com:AIG-Livny/shaderutils.git
+[submodule "lib/cgeom"]
+	path = lib/cgeom
+	url = git@github.com:AIG-Livny/cgeom.git
